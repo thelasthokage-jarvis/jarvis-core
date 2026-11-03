@@ -1,0 +1,6 @@
+Flask
+google-genai
+supabase
+python-dotenv
+requests
+groq
